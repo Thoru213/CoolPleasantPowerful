@@ -1,0 +1,8 @@
+Nama    : Nur Falah Syufa
+Gugus   : C++
+
+Tugas :
+Figma adalah aplikasi desain UI/UX berbasis vektor yang berjalan di browser, namun ada juga versi desktopnya. Figma juga berbasis cloud sehingga semua desain yang sudah dikerjakan otomatis tersimpan di server. Figma bisa digunakan untuk berkolaborasi real-time banyak orang sekaligus. Selain itu, Figma juga punya fitur prototyping untuk membuat tampilan antarmuka yang interaktif dengan mudah. Walaupun mempunyai beberapa saingan dalam dunia desain UI/UX, Figma tetap menjadi tools UI/UX paling populer sejauh ini karena cocok untuk pengerjaan tim yang tersebar secara remote. Figma bukan cuma aplikasi yang bisa digunakan designer, tapi juga untuk developer, engineer, dll.
+4 Prinsip dasar UI : 1. Contrast = Perbedaan. 2. Repetition = Pengulangan. 3. Alignment = Perataan. 4. Proximity = Pengelompokan.
+4 Hukum UX : 1. Hick's Law = Menghindari terlalu banyak membuat pilihan. 2. Fitts's Law = Membuat jarak elemen terjangkau pengguna. 3. Miller's Law = Membatasi jumlah elemen dalam satu tampilan sebanyak 7-9. 4. Jakob's Law = Membuat gaya tampilan seperti pada umumnya sesuai genrenya/tidak terlalu membuat gaya baru.
+4 Prinsip desain pada umumnya : 1. Emphasis = Penekanan. 2. Typography = Gaya teks. 3. Colour = Pewarnaan. 4. White Space = Ruang kosong untuk bernafas.
