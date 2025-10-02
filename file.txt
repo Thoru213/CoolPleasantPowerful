@@ -1,0 +1,22 @@
+Nama:Muharam adiel aylisyaputra
+Nim:25106050113
+
+Figma adalah aplikasi desain UI/UX berbasis vektor yang berjalan di browser maupun desktop
+Berbasis cloud, sehingga desain tersimpan otomatis dan bisa diakses dari mana saja
+Memiliki keunggulan kolaborasi real-time, banyak orang bisa mengerjakan file yang sama sekaligus
+Tersedia fitur prototyping untuk membuat desain menjadi interaktif
+
+posisi figma di industri desain dan teknologi
+Figma populer untuk desain UI/UX, banyak dipakai di perusahaan teknologi, startup, dan tim produk digital.
+Cocok untuk kolaborasi tim, termasuk yang remote atau melibatkan banyak orang
+Dipakai luas, bukan hanya desainer, tapi juga developer, product manager, dan stakeholder non-desain
+prinsip dasar UX deesain
+Hick’s Law → Semakin banyak pilihan, semakin lama waktu yang dibutuhkan untuk mengambil keputusan
+Fitts’s Law → Waktu untuk mencapai target tergantung pada ukuran dan jaraknya
+Miller’s Law → Rata-rata manusia hanya bisa menyimpan ±7 item dalam ingatan kerja
+Jakob’s Law → Pengguna ingin website/app baru bekerja mirip dengan situs lain yang sudah mereka kenal
+
+Coler
+60% warna primer → warna dominan
+30% warna sekunder → sebagai pendukung
+10% warna aksen → untuk memberikan pop/penekanan
