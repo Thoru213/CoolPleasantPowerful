@@ -1,0 +1,28 @@
+Nama: Kikha Naufal Akbar
+NIM : 25106050071
+
+FIGMA
+Figma adalah aplikasi desain UI/UX berbasis vektor yang berjalan di browser dan juga ada versi desktop. figma menggunakan sistem 
+penyimpanan cloud sehingga bisa diakses dimana saja. Figma juga memungkinkan kita untuk berkolaborasi online secara real time.
+
+Figma memiliki posisi yang penting di industri teknologi dan desain. karena figma adalah tools yang populer untuk mendesain
+UI/UX. Bahkan figma memiliki market share mencapai 36%-40%. Figma juga dipakai oleh desainer, developer, product manager,
+bahkan stakeholder non-desain.
+
+Prinsip dasar UI/UX
+1. kontras - kontras artinya objek memiliki perbedaan yang mencolok dengan objek lain. seperti memiliki bentuk yg berbeda, warna
+berbeda, atau ukuran berbeda
+2. repetetion - repetetion atau pengulangan yaitu kumpulan objek yang menggunakan warna, ukuran, atau gaya yang sama aga 
+mempermudah user dalam mengelompokkan objek.
+3. alignment - alignment atau keselarasan adalah kumpulan objek yang serasi atau selaras. biasanya objek objek tersebut
+memiliki posisi yang rapi sehingga nyaman dilihat.
+4. proximity - proximity atau yang biasa disebut kedekatan, artinya desain memiliki jarak antar objek yang cukup dekat sehingga
+desain menjadi lebih sederhana.
+5. emphasis - emphasis atau tekanan berguna untuk memberikan penekanan pada objek sehingga user dapat tertuju pada informasi
+utama yang ingin disampaikan.
+6. typography - typography berfungsi untuk mengatur tata teks. baik dari ukuran, ketebalan, font, dll. hal itu bertujuan agar
+memudahkan user dalam membaca dan membuat mereka betah membaca.
+7. color - selain untuk mempercantik vidual, warna juga memiliki fungsi lain. setiap warna bisa mempengaruhi psikologis
+user yang melihat.
+8. white spaces - white spaces adalah ruang kosong desain. roang kosong ini berfungsi untuk memberikan ruang kepada user untuk
+"beristirahat" sehingga matanya tidak lelah
