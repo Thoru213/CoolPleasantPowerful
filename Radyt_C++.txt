@@ -1,0 +1,25 @@
+Nama : Muhammad Najd Radyt Ijtaba
+NIM : 25106050008
+
+Figma adalah aplikasi desain UI/UX yang berbasis vektor dan berjalan di browser, dan ada juga yang berbentuk aplikasi
+Figma berbasis cloud, sehingga semua kerjaan auto ke save di server dan dapat di akses di manapun selagi ada internet
+Salah satu keunggulan Figma adalah kolaborasi real time, sehingga dapat bekerja sama dengan banyak orang, dan perubahannya terlihat oleh banyak orang lain.
+Dan juga Figma memiliki fitur protoype sehingga dapat membuat tapilan desain menjadi lebih interaktif
+
+Prinsip dasar desaign C.R.A.P
+1. Contras = Mengatur desain, tetapkan hierarki, dan menekankan titik fokus
+2. Repetition = Menciptakan konsistensi, Meningkatkan kemampuan belajar pengguna, dan tidak membuat pengguna bingung
+3. Alignment = Mengelompokan unsur-unsur, menciptakan keselarasan, dan merapikan yang berantakan
+4. Proximity = Membuat unsur unsur tampak berhubungan, dan memberikan pemahaman dan makna kepada pengguna
+
+Prinsip dasar UX desaign : Law's of UX
+1. Hick's Law : Waktu yang dibutuhkan untuk membuat keputusan meningkat seiring dengan jumlah dan kompleksitas pilihan
+2. Fitts's Law : Waktu yang dibutuhkan untuk menuju target merupakan fungsi jaran dan ukuran target
+3. Miller's Law : Rata-rata orang hanya dapat menyimpan 7 (+/-) benda di otaknya
+4. Jakob's Law : Pengguna menghabiskan sebagian besar waktu mereka di situs lain. Menunjukan bahwa orang lain lebih suka situs berfungsi sama seperti situs-situs yang lain yang sudah dikenal.
+
+Prinsip desaign lainnya :
+1. Emphasis : Menarik perhatian pada elemen yang penting, yang akan membuatnya menonjol
+2. Typpgraphy : Membuat pembaca menjadi jelas, menentukan suasana, dan meningkatkan desain keseluruhan
+3. Color : Menambahkan suasana hati, menciptakan kontras, dan membantu mengomunikasikan warna atau menghubungkan suasana warna dengan hati
+4. White Space : Ruang untuk mata beristirahat, sehingga tidak capek dan sumpek.
