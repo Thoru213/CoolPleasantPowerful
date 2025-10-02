@@ -1,0 +1,28 @@
+Nama : A'la Rizqiyah
+NIM : 25106050089
+Kelompok : C++
+
+1. Apa itu figma?
+ adalah sebuah aplikasi desain berbasis web yang digunakan untuk membuat user interface (UI) dan user experience (UX). Figma memungkinkan kolaborasi secara real-time antar desainer, sehingga memudahkan tim untuk bekerja bersama dalam satu proyek desain.
+
+2. Alasan memilih figma
+Karena Figma mudah digunakan, memiliki fitur kolaborasi real-time, dapat diakses secara online tanpa instalasi, serta mendukung berbagai plugin yang memudahkan proses desain dan prototyping.
+
+3. Fitur-fitur figma
+- Kolaborasi real-time antar pengguna
+- Komponen dan asset library yang dapat digunakan ulang
+- Prototyping interaktif
+- Versi revisi dan riwayat perubahan
+- Integrasi dengan berbagai plugin
+- Export aset dalam berbagai format
+- Komentar langsung pada desain
+- Auto layout untuk desain responsif
+
+4. Cara memulai figma
+- Kunjungi situs web figma.com dan daftar akun secara gratis.
+- Setelah login, klik tombol "New Design File" untuk membuat proyek baru.
+- Mulai mendesain dengan menggunakan tools yang tersedia di panel sebelah kiri.
+- Simpan dan bagikan desain dengan tim melalui tautan atau undangan email.
+
+5. Kesimpulan
+Figma merupakan alat desain modern yang sangat membantu dalam pembuatan UI/UX secara kolaboratif dan efisien. Dengan fitur-fitur unggulan seperti kolaborasi real-time, kemudahan akses, serta dukungan plugin, Figma menjadi pilihan tepat bagi desainer untuk bekerja secara produktif dan terorganisir.
