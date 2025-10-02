@@ -1,0 +1,9 @@
+NAMA:ROIKHAN HABIB NURROHMAN
+NIM:25106050010
+
+Apa itu Figma?
+1. Figma adalah aplikasi desain UI/UX 
+2. Karena berbasis cloud, semua kerjaan desain auto-save selama ada internet
+3. Banyak orang bisa bekerja sama dalam file yang sama, perubahan langsung 
+terlihat oleh semua orang
+4. Figma punya fitur prototyping
